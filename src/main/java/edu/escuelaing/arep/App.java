@@ -3,7 +3,6 @@ import com.google.gson.Gson;
 
 import edu.escuelaing.arep.http.HttpStockServiceImp;
 
-import static spark.Spark.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;
