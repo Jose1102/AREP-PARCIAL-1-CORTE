@@ -20,3 +20,14 @@ Entregue todo en GIT HUB y el enlace a Heroku.
 
 JSON
 https://www.w3schools.com/js/js_json_syntax.asp
+
+
+## Ejecutando proyecto
+
+Para correr el proyecto se debe correr la clase App como se muestra a continuación
+
+![app](https://github.com/Jose1102/AREP-PARCIAL-1-CORTE/blob/main/images/1.PNG)
+
+Luego se debe poner localhost:4567 y nos aparecerá el JSON 
+
+![json](https://github.com/Jose1102/AREP-PARCIAL-1-CORTE/blob/main/images/2.PNG)
